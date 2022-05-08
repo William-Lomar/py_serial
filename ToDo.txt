@@ -1,0 +1,20 @@
+Essenciais:
+-> Colocar listas de porta COM automático 
+-> Tratamento de erros 
+-> Salvar dados local para quando não tiver net disponível
+
+Extras:
+-> Pegar tag na planilha excel
+-> json "Todos": Pegar somente dados da estação ?
+-> Ordenar tabelas
+-> Resgatar dados a partir de uma data 
+-> FTP
+-> Terminal
+-> Terminal remoto
+-> Corrigir bug varias telas
+-> Estilização
+-> Otimizar código serial para read_all
+
+Futuro:
+-> Add + Equipamentos
+-> Aprender a comunicação via protocolo modbus com python
